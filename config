@@ -9,8 +9,8 @@
       "enable": false
     },
     {
-      "applicationID": "com.dntan.app3",
-      "enable": true
+      "applicationID": "com.dntan.test",
+      "enable": false
     }
   ]
 }
