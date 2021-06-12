@@ -1,1 +1,1 @@
-# admobconfig
+# Admob config
